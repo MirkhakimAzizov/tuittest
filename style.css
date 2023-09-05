@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+/* .el-form{
+margin-top: 100px;
+} */
+.wrapper-inner{
+padding-top:15px;
+}
+img{
+ width: 100%;
+}
+input::placeholder{
+opacity: 0.5;
+}
